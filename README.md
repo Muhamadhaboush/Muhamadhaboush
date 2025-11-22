@@ -5,7 +5,7 @@ I am a 3nd-year Computer Engineering student at Alanya Alaaddin Keykubat Univers
 ## About Me
 - University: Alanya Alaaddin Keykubat University
 - Department: Computer Engineering
-- Year: 2nd year
+- Year: 3nd year
 - Interests: Web development, mobile application development
 - Programming Languages: Java, C
 - Goal: To work in software development abroad
