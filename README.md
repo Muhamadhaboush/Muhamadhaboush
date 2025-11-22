@@ -1,22 +1,23 @@
-## Merhaba, ben Muhamad nour haboush!
+## Hello, I am Muhamad Nour Haboush!
 
-Ben Alanya Alaaddin Keykubat Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Web ve mobil uygulama geliştirmeye ilgi duyuyorum. Hedefim iyi bir yazılım geliştiricisi olmak ve yurt dışında (özellikle Avrupa'da) kariyer yapmak.
+I am a 2nd-year Computer Engineering student at Alanya Alaaddin Keykubat University. I am interested in web and mobile application development. My goal is to become a skilled software developer and pursue a career abroad, especially in Europe.
 
-## Hakkımda
-- *Üniversite: Alanya Alaaddin Keykubat Üniversitesi
-- Bölüm: Bilgisayar Mühendisliği
-- Sınıf: 2. sınıf
-- İlgi Alanlarım:* Web geliştirme, mobil uygulama geliştirme
-- Programlama Dilleri: Java, C
-- Hedef: Yurt dışında yazılım alanında çalışmak
+## About Me
+- University: Alanya Alaaddin Keykubat University
+- Department: Computer Engineering
+- Year: 2nd year
+- Interests: Web development, mobile application development
+- Programming Languages: Java, C
+- Goal: To work in software development abroad
 
-## İletişim
-- www.linkedin.com/in/muhamad-nour-haboush-7a0243363
-- Mail:habbusmuhammed@gmail.com
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/muhamad-nour-haboush-7a0243363)
+- Email: habbusmuhammed@gmail.com
 
-## Şu anda üzerinde çalıştığım şeyler
-- Web projeleri (HTML, CSS, JavaScript)
-- Java ile nesne tabanlı programlama
-- Git ve GitHub kullanımı
+## Current Projects
+- Web projects (HTML, CSS, JavaScript)
+- Object-oriented programming in Java
+- Using Git and GitHub
 
-Kendimi geliştirmeye ve açık kaynak projelere katkı sağlamaya devam ediyorum!
+I continue to improve myself and contribute to open-source projects!
+
