@@ -1,6 +1,6 @@
 ## Hello, I am Muhamad Nour Haboush!
 
-I am a 2nd-year Computer Engineering student at Alanya Alaaddin Keykubat University. I am interested in web and mobile application development. My goal is to become a skilled software developer and pursue a career abroad, especially in Europe.
+I am a 3nd-year Computer Engineering student at Alanya Alaaddin Keykubat University. I am interested in web and mobile application development. My goal is to become a skilled software developer and pursue a career abroad, especially in Europe.
 
 ## About Me
 - University: Alanya Alaaddin Keykubat University
